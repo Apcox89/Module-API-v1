@@ -1,0 +1,25 @@
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/bin/Debug/netcoreapp3.1/Module 2 Redux.deps.json
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/bin/Debug/netcoreapp3.1/Module 2 Redux.runtimeconfig.json
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/bin/Debug/netcoreapp3.1/Module 2 Redux.runtimeconfig.dev.json
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/bin/Debug/netcoreapp3.1/Module 2 Redux.dll
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/bin/Debug/netcoreapp3.1/Module 2 Redux.pdb
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/obj/Debug/netcoreapp3.1/Module 2 Redux.csprojAssemblyReference.cache
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/obj/Debug/netcoreapp3.1/Module 2 Redux.AssemblyInfoInputs.cache
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/obj/Debug/netcoreapp3.1/Module 2 Redux.AssemblyInfo.cs
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/obj/Debug/netcoreapp3.1/Module 2 Redux.csproj.CoreCompileInputs.cache
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/obj/Debug/netcoreapp3.1/Module 2 Redux.dll
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/obj/Debug/netcoreapp3.1/Module 2 Redux.pdb
+/Users/apcox/Desktop/Module 2 Redux/Module 2 Redux/obj/Debug/netcoreapp3.1/Module 2 Redux.genruntimeconfig.cache
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\bin\Debug\netcoreapp3.1\Module 2 Redux.exe
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\bin\Debug\netcoreapp3.1\Module 2 Redux.deps.json
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\bin\Debug\netcoreapp3.1\Module 2 Redux.runtimeconfig.json
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\bin\Debug\netcoreapp3.1\Module 2 Redux.runtimeconfig.dev.json
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\bin\Debug\netcoreapp3.1\Module 2 Redux.dll
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\bin\Debug\netcoreapp3.1\Module 2 Redux.pdb
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\obj\Debug\netcoreapp3.1\Module 2 Redux.csprojAssemblyReference.cache
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\obj\Debug\netcoreapp3.1\Module 2 Redux.AssemblyInfoInputs.cache
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\obj\Debug\netcoreapp3.1\Module 2 Redux.AssemblyInfo.cs
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\obj\Debug\netcoreapp3.1\Module 2 Redux.csproj.CoreCompileInputs.cache
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\obj\Debug\netcoreapp3.1\Module 2 Redux.dll
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\obj\Debug\netcoreapp3.1\Module 2 Redux.pdb
+A:\Users\G-Rig\Desktop\PortalsOfTechnoprois\Module-API-v1\Module 2 Redux\obj\Debug\netcoreapp3.1\Module 2 Redux.genruntimeconfig.cache
